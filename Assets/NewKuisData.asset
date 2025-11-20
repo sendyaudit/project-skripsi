@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4cc3bff763d4f44af2de97d91795dc, type: 3}
+  m_Name: NewKuisData
+  m_EditorClassIdentifier: 
+  questions:
+  - pertanyaanText: "Sebelum melepaskan umpan posisi pandangan kita berada\_dimana?"
+    jawaban:
+    - ke bawah lalu ke atas
+    - ke depan lalu ke samping
+    - ke bola lalu ke samping
+    - ke bola lalu ke depan
+    correctReplyIndex: 3
+    gambarPertanyaan: {fileID: 21300000, guid: c4b95deae447d2f489f668c652ed87a8, type: 3}
+  - pertanyaanText: "Tujuan dari umpan dan pergi untuk\_apa?"
+    jawaban:
+    - Pola permainan jadi terkoordinasi
+    - Mengulur waktu permainan
+    - Menjaga bola di area sendiri
+    - Menendang bola sejauh mungkin
+    correctReplyIndex: 0
+    gambarPertanyaan: {fileID: 21300000, guid: 1da7785c69a7b7d4396948c066f05e05, type: 3}
+  - pertanyaanText: Jenis dari umpan silang ini dengan menggunakan punggung kaki.
+      Apa nama dari umpan silang ini?
+    jawaban:
+    - Classic swinging cross
+    - Pull back cross
+    - Direct cross
+    - Floating cross
+    correctReplyIndex: 3
+    gambarPertanyaan: {fileID: 21300000, guid: f922a9a6faa089d4d916123ba17efba5, type: 3}
+  - pertanyaanText: "Apa tujuan menendang bagian bawah\_bola?"
+    jawaban:
+    - Untuk umpan pendek
+    - Agar bola aman
+    - Agar bola melambung jauh
+    - Untuk memberikan lawan
+    correctReplyIndex: 2
+    gambarPertanyaan: {fileID: 21300000, guid: 62f0c30786404be49a9a110b73f54d69, type: 3}
+  - pertanyaanText: Apa tujuan dari tendangan knuckle?
+    jawaban:
+    - Agar bola menjadi stabil
+    - Membuat bola bergerak tak terduga
+    - Membuat bola melambung jauh
+    - Untuk umpan pendek
+    correctReplyIndex: 1
+    gambarPertanyaan: {fileID: 21300000, guid: f90d3683d682f2e4ca32cacd1f85dac3, type: 3}
+  - pertanyaanText: "Bagian kaki mana yang seharusnya agar bola melengkung\_ke\_dalam?"
+    jawaban:
+    - Bagian dalam
+    - Punggung kaki
+    - Bagian luar
+    - Ujung kaki
+    correctReplyIndex: 0
+    gambarPertanyaan: {fileID: 21300000, guid: 449f894fa64d4fd4e9eeb98bc2852d91, type: 3}
+  - pertanyaanText: "Agar kekuatan tendangan stabil dan keras harus menggunakan kaki\_bagian\_apa?"
+    jawaban:
+    - Bagian luar
+    - Ujung kaki
+    - Punggung kaki
+    - Bagian dalam
+    correctReplyIndex: 2
+    gambarPertanyaan: {fileID: 21300000, guid: 5e634e0948f43dd4c91cb71fa96f44cd, type: 3}
+  - pertanyaanText: "Untuk melakukan trivela seharusnya menggunakan kaki\_bagian\_apa?"
+    jawaban:
+    - Bagian luar
+    - Bagian dalam
+    - Punggung kaki
+    - Ujung kaki
+    correctReplyIndex: 0
+    gambarPertanyaan: {fileID: 21300000, guid: c3321853ee24fb14da597a06ec713fcd, type: 3}
+  - pertanyaanText: "Sepak bola berasal dari negara\_mana?"
+    jawaban:
+    - Amerika
+    - Tiongkok
+    - Inggris
+    - Indonesia
+    correctReplyIndex: 1
+    gambarPertanyaan: {fileID: 21300000, guid: 7df95297e5d6ae84c9307015c0229e99, type: 3}
+  - pertanyaanText: Siapa yang melakukan teknik rabona pertama kali?
+    jawaban:
+    - Ricardo Quaresma
+    - Ronaldo
+    - Ricardo Infante
+    - Darwin Nunez
+    correctReplyIndex: 2
+    gambarPertanyaan: {fileID: 21300000, guid: 0a52cb3b938d10246a7e007c4680d977, type: 3}
+  - pertanyaanText: Siapa Penemu tiki taka?
+    jawaban:
+    - Frank Rijkaard
+    - Pep Guardiola
+    - Rahmad Darmawan
+    - Johan Cruijff
+    correctReplyIndex: 3
+    gambarPertanyaan: {fileID: 21300000, guid: aa861514ab85f4049bb5a52d0e67b8d7, type: 3}
+  - pertanyaanText: Siapa Pengembang tiki taka?
+    jawaban:
+    - Frank Rijkaard
+    - Pep Guardiola
+    - Rahmad Darmawan
+    - Johan Cruijff
+    correctReplyIndex: 0
+    gambarPertanyaan: {fileID: 21300000, guid: aa861514ab85f4049bb5a52d0e67b8d7, type: 3}
+  - pertanyaanText: Siapa Penyempurna tiki taka?
+    jawaban:
+    - Frank Rijkaard
+    - Pep Guardiola
+    - Rahmad Darmawan
+    - Johan Cruijff
+    correctReplyIndex: 1
+    gambarPertanyaan: {fileID: 21300000, guid: aa861514ab85f4049bb5a52d0e67b8d7, type: 3}
+  - pertanyaanText: Indonesia pertama kali ikut piala dunia pada saat penjajahan
+      belanda. Apa sebutan nama Indonesia waktu itu?
+    jawaban:
+    - Indonesia
+    - Manchester United
+    - Hindia Belanda
+    - Nusantara
+    correctReplyIndex: 2
+    gambarPertanyaan: {fileID: 21300000, guid: d73537d7bbedcad4d84b13a56ea21f3b, type: 3}
+  - pertanyaanText: Siapa kah "King of Trivela"?
+    jawaban:
+    - Quaresma
+    - Ronaldo
+    - Darwin Nunez
+    - Nicolas Jackson
+    correctReplyIndex: 0
+    gambarPertanyaan: {fileID: 21300000, guid: 3b41acab763ab6e498b9a3721bc46a3d, type: 3}
+  - pertanyaanText: Taktik yang semua bertukar posisi secara konstan, sambil menekan
+      lawan disebut taktik apa?
+    jawaban:
+    - Kick n Rush
+    - Total football
+    - Parkir Bus
+    - Parkir Motor
+    correctReplyIndex: 1
+    gambarPertanyaan: {fileID: 21300000, guid: 2900681d8bc1c6d44ac2f189d06004de, type: 3}
+  - pertanyaanText: Nama taktik apa yang fokus untuk menjaga di zona pertahanan
+    jawaban:
+    - Kick n Rush
+    - Total football
+    - Parkir Bus
+    - Parkir Motor
+    correctReplyIndex: 2
+    gambarPertanyaan: {fileID: 21300000, guid: caaea08370b7aab43a07e2310d25ec6f, type: 3}
+  - pertanyaanText: Apa penyebutan formasi ini
+    jawaban:
+    - 5-3-2
+    - 5-4-1
+    - 4-4-2
+    - 4-3-3
+    correctReplyIndex: 3
+    gambarPertanyaan: {fileID: 21300000, guid: 5dafbb6755abe244595a2a9173c24265, type: 3}
+  - pertanyaanText: Apa penyebutan formasi ini
+    jawaban:
+    - 5-3-2
+    - 5-4-1
+    - 4-4-2
+    - 4-3-3
+    correctReplyIndex: 2
+    gambarPertanyaan: {fileID: 21300000, guid: e944b94cb4a508549a00f07bf644c06f, type: 3}
+  - pertanyaanText: Apa penyebutan formasi ini
+    jawaban:
+    - 5-3-2
+    - 5-4-1
+    - 4-4-2
+    - 4-3-3
+    correctReplyIndex: 1
+    gambarPertanyaan: {fileID: 21300000, guid: 075b3659d8a0b7748bc5fc8ef1a6eec8, type: 3}

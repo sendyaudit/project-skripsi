@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="451defend" size="0.100000 0.100000" />
+    <ImageTarget name="532defend" size="0.100000 0.100000" />
+    <ImageTarget name="541defend" size="0.100000 0.100000" />
+    <ImageTarget name="4312attack" size="0.100000 0.100000" />
+    <ImageTarget name="433attack" size="0.100000 0.100000" />
+    <ImageTarget name="442attack" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
